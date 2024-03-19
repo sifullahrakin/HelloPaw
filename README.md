@@ -4,7 +4,7 @@ A simple project using Python and Django. Here is the process for run the projec
 2. Go To Project Directory
 3. Then install virtualenv using pip : pip install virtualenv 
 4. Create a Virtual Environment : virtualenv env
-5. Install Requirements Package : pip install -r requirements.txt
+5. Install Requirements Package : pip install -r requerments.txt
 Finally Run The Project : python manage.py runserver
 
 ![H1](https://user-images.githubusercontent.com/92685144/218126122-b8745fc3-ec23-49f9-ae0b-dc5d6d2ea121.JPG)
